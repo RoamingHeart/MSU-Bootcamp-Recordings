@@ -147,7 +147,7 @@ Will try to update as the class progress.
     * [Video Part]()
     * [Audio part]()
 
-## Template
+## Template for copy and pasting new things
 * Day 1
     * [Video Part]()
     * [Audio part]()
