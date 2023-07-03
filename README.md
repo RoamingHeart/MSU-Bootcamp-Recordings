@@ -144,6 +144,17 @@ Will try to update as the class progress.
     * [Video Part](https://zoom.us/rec/play/HFweSgLLwJPT5v6nq7EkgZgXexB8m8cQcC5atwAMMCp-3M2mCya8EBn2W62N1ykvaPiJayXEqDEt_iOg.q9bokvEN50fyLX2A)
     * [Audio part](https://zoom.us/rec/play/0ypHPjqItCPczy16WrrX8X4lfC9XZGEDih166BUSNuP9PeYl1hQeuR7VeB0cG-j00UvKydGjMfhSfAZS.Oam0EpCNIokCKzyl)
 * Day 3
+    * [Video Part](https://zoom.us/rec/play/vB5FO5aSZAzF5eChgKU0Nf_3X4cNDJo2Ge70dv_7BGDV5RBH8nviNYWVD_C1bC1_tS0KkuPi8y9Hs98J.4N9erqW0u20Mrl_g)
+    * [Audio part](https://zoom.us/rec/play/K4Kk7cpEqOXR6DFNxFaCEx9GwBgvuZsFqZSZKixs94XC2vwRQLoB-p5SbvDoZdR-HlkbMz14bSfvoaKY.29nHvSFtxRJA39rd)
+
+## Model-View-Controller (MVC)
+* Day 1
+    * [Video Part](https://zoom.us/rec/play/pIWWSgYZjJI9JjRlWlOqkyYny2FNEWQDMomcrPYtU2jfvsBCSDusdHshSGDVXkXbN1A5zs_Rr_XUJQEO.eXDW1BOacu2gjUZm)
+    * [Audio part](https://zoom.us/rec/play/jiiVk7syBSsiUJSctlLgenwm2OdqpI9vv4e49L1Gm_7XYariVObMZCb13rFNCth79H-MLfJs_Hk2H4MM.jJezEQOh9GML3l40)
+* Day 2
+    * [Video Part]()
+    * [Audio part]()
+* Day 3
     * [Video Part]()
     * [Audio part]()
 
