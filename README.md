@@ -152,13 +152,125 @@ Will try to update as the class progress.
     * [Video Part](https://zoom.us/rec/play/pIWWSgYZjJI9JjRlWlOqkyYny2FNEWQDMomcrPYtU2jfvsBCSDusdHshSGDVXkXbN1A5zs_Rr_XUJQEO.eXDW1BOacu2gjUZm)
     * [Audio part](https://zoom.us/rec/play/jiiVk7syBSsiUJSctlLgenwm2OdqpI9vv4e49L1Gm_7XYariVObMZCb13rFNCth79H-MLfJs_Hk2H4MM.jJezEQOh9GML3l40)
 * Day 2
-    * [Video Part]()
-    * [Audio part]()
+    * [Video Part](https://zoom.us/rec/play/pvpxpQ4OFhd2bcraA8ZDymh3QNYPZsrAt9VEOuHGfS_0zTHq3RN3uzqTbd32l9TNOjExlLr41aNoy2mz.S-hMLKNDmzTB7Uvj)
+    * [Audio part](https://zoom.us/rec/play/RcP3jvY_gXVqX0ovdhj0corqcF9i4L8jrVAcEy7qAtJXe9Kddcyf8VUIxN9qI1Jhk8CAU9YDxS4ufDo_.dnkwrgajSAs4dxIN)
 * Day 3
-    * [Video Part]()
-    * [Audio part]()
+    * [Video Part](https://zoom.us/rec/play/jJ6HEQduNpev4bFNFhRAAbxFLubeQCv67G6TWnZ8Eb_4_JhuLfnNXNSFUZ4ExY1cK_zXSnMecvO5Nm5d.vsDQWdGrH7gnQfSu)
+    * [Audio part](https://zoom.us/rec/play/HUN034ZaD4nXUhxCoEx2nSv1FAhEDF3u5Nt4kyK8wAlj0XWqXecuFt_LZgvPhtDP1_27hzNNPLyoEY6r.Jd4b1zgZO1TaHlKt)
 
-## Template for copy and pasting new things
+## Project 2
+* Day 1
+    * [Video Part](https://zoom.us/rec/play/LytLLpofrt8EvN_HoZFQHZT_2FWIYgFvLIsn8EIA75unFeLpkzm8kCeNOgf4ATXrXKc6ISGSMhcxEDjR.R2oNnTXNWc8bmZyU)
+    * [Audio part](https://zoom.us/rec/play/rCNHVtRBLJiU-YdhrVyd3RVX4Q3b71VXxwy8GW5BgVp0N4YdDt__I0UYKY-Yt4SdQJYRfw8we-_x0oqG.HzXD6qCQstPKi9-k)
+* Presentation
+    * Group 1
+        * [Video Part](https://zoom.us/rec/play/00tVI_ChDXEZ9534hUMpDs2YRWhEjUYB09xWLsRPhus96LX_90JpC4mGxkc5SUjuEH-1HkJvppuSOXRb.4JWbtRNmefMfGPNB)
+        * [Audio part](https://zoom.us/rec/play/pfnCDxIGHCndg8dQV2uJy01QXj46yq5A1egRfWkjpD0yAvxIRQkaG5tH8EPhxoaRWRjn2fW2TrkJMmqu.h1toduL2Hb7LZnZ-)
+    * Group 2
+        * [Video Part](https://zoom.us/rec/play/WWxaPNXUcmJXnv0kTZpHmrl2mpg5HvBTcJIcwOsfaZAXkUdoRWnWrl7Gac_H1u5n4AgNc4X4W6H7UNoT.7f-XaDj2ot7CZ3pJ)
+        * [Audio part](https://zoom.us/rec/play/lIEgN4crHYprkCr8xf_FgnsaK9psbD7FkIJkvf2Dc_Gfk4ZtV8I_jmlWphFmvnSTETJLaS-I2YqRp--g.RZJWgj2q7WfcpgM1)
+    * Group 3
+        * [Video Part](https://zoom.us/rec/play/jfbCFqX5dqoK9frK2LUvrV3iSfeqSckrYFcKSwQJaJZUBEQ_lIURwQWazWCAYmNoTILliM-3w0KOtMg.pFyY8YrvCVo8bZ2z)
+        * [Audio part](https://zoom.us/rec/play/D4aLQCrGCAco0XQf-UVzY5VlChlcDA6eAmQJuJs_5raA-tmYCCx_keMBacEskMuOiVENinYW8qNbGORE.Ajt-nl4zxzrv9ma0)
+    * Group 4
+        * [Video Part](https://zoom.us/rec/play/gjblydS09DpPHfyO-noDDweUudungRoj8-5-C-_Awl8NjrnoG4RuX9anNErhQ9brddVoCM9HX3RxZOtL.wNrJNQyEBVZIJ5Ha)
+        * [Audio part](https://zoom.us/rec/play/Vy9CRbvIkT5RUbH-ql9IS1oBnTdsNuFOG0q1fqkdjX-is90VFVQk3R2ItOyYBJVevHWrYg2sP_SmaOqW.yRlOCLHOBJYYBZ1_)
+    * Group 5
+        * [Video Part](https://zoom.us/rec/play/a318ao1X4Kk27xNtYcn3kEDZho4MoCb9hTN5AypQ5ed-Su_hPl7sdHSYIkmux-r75xLS5upLzmKaSYug.3Ox-SOuZNAq4ROuL)
+        * [Audio part](https://zoom.us/rec/play/oPrdvseLVRunaRe1u9clPq352jtv6DACniYn80-gnZ3sNJR0OKmOcl_mKC2CqyBZTNX8si6my8amrESi.aMVMX9ZcCFeeU7Pf)
+    * Group 6
+        * [Video Part](https://zoom.us/rec/play/ohjLV_-VftplUYV4PGNnEnwAIAFUhMUGrWnL7neSoxrGpUBoOxYjmzk7cDtLQqt6bsJFu3rbNqV42HUt.QpAOrjf8ThJPFTMn)
+        * [Audio part](https://zoom.us/rec/play/W9gQQ_XTiO_VUECJB9peKZ1J5ijJnbbqvPH2nfsqo2LzvYewFaZgO3WgvwqilVzQeOqvPcaU2mTDndgR.d3lj7aTBQKxTwpy1)
+
+## Computer Science for JavaScript
+* Day 1
+    * [Video Part](https://zoom.us/rec/play/Jw8tdxh0yzy2kqZF7rvNYnY6PayCHUAoXRVxE8hhWTLnjAnUpQHVnORTzf8otmruTpiSNc91EWnMrpxJ.IIIU_Z6EtJlOIfnq)
+    * [Audio part](https://zoom.us/rec/play/K0nGNQ78h0QX-sEfcvlQucTjhBpHMqPWhWHv4iJfk_O4No8GWtIiqwtXbuE4IhWjnvmX8frEb1DF1U-8.MYYN0lZWUgfFv-WV)
+* Day 2
+    * [Video Part](https://zoom.us/rec/play/5Ap8s2sRnZ2O7Ppdkc54HAcihKLCeuaUKJqlBk5El0PJy4MH9Sey9Me-7jiOP5HOY3412_jsAYJGYjam.sDCmHHX_9AybXdSn)
+    * [Audio part](https://zoom.us/rec/play/-EPRIceEi41bjZXMc1zIH8T86OFXJJm_WeB0BAEMkmuigfJOtu8F2LFIhk_z2XvRp96f7RhyYPGCU5mI.m0migKV49vmKiq5W)
+* Day 3
+    * [Video Part](https://zoom.us/rec/play/_DBD-of6ghM9GQobwRL8ZBVlBQsNvXaK0qwAHFeihrW_V05y7PzuENApduox4RswPwTT6PN6y-Ie8V9R.v2mH2OR1JeXsRA_e)
+    * [Audio part](https://zoom.us/rec/play/MN1YT2QMCAuqJW5oN3JKwWUcEOf6fnTNoau8idzNVXQA5WhWPnuIllmW0nATErSJ3_DvbxAXpcjyUEky.7spqOdhCF_7uLYes)
+
+## NoSQL
+* Day 1
+    * [Video Part](https://zoom.us/rec/play/DgaDi1DyD8rMt9YMTzlxY5gTfbEFsaJosaQHc59f8Vq_w8iH3EOyxmGu-KrxQLXKeyP4M0oyTLggk3ST.VtI6pcSK6AgJi5Ty)
+    * [Audio part](https://zoom.us/rec/play/RbFqSQGifmKZpTyYVXcB0Lodd9ZOOpEGT6sU4vXjcQtxEROV57bUN2_jSncA2coWP35GcYqxM-OI41P5.LFmWXxE7MBEc6JXz)
+* Day 2
+    * [Video Part](https://zoom.us/rec/play/NExxzSZCruhJNGH4MU26qMnLlXvk_3y4ZfpLo13mP509mhSKMTnOIaUpb-GpMJVvOOyyXp175EUOU4-O.jxSJC0K3ldVHZX96)
+    * [Audio part](https://zoom.us/rec/play/WDqOsvDV8Abdshwqujls1BNDId4G9t12uJ6K1P1KQ1EMyJtBq3fTPV4B6VJCobHRqe_6Rl0hejLMHnwf.N8Y87Mr0j2_8RfkZ)
+* Day 3
+    * [Video Part](https://zoom.us/rec/play/VJuHCiejARGBJKOGIrGCo59AkRXaIemyjI5yEXG1A8hzwwbd92ejc9tQQuunRHj_qCLd4r5fKL15jryV.CvHp9fDjqzt7V6i5)
+    * [Audio part](https://zoom.us/rec/play/jhSKrgLvkKBPuJjZMTv4LEbCwliVVCPKOcL5oTDFc6r_ky5gpAJhytRlYu4D1Ozr9iAzSbdsrAdo-8S8.MqMaLo_ulbnAvchM)
+
+## Progressive Web Application (PWA)
+* Day 1
+    * [Video Part](https://zoom.us/rec/play/De70uXMqjGZ5LlV8fZeZ2-IUNT0dmC0uixkOhNkpKx8ZDqWuRmkgD5Ig3eZmPPTU7wUoZVter4skkgWu.y_y8kXiz55MkHQV3)
+    * [Audio part](https://zoom.us/rec/play/bJ_hM_ncTCgjWCPlg3R2Cf_sFaT4Lp4Kf5cwJBcfepNckO_rzufVqYYzlgVU31WBtWo4kGV1q1tW35Sa.Y78_AojvmVGPeHJl)
+* Day 2
+    * [Video Part](https://zoom.us/rec/play/NBQajBmuQZSZgIK5m4s5einZkDJrGFG_vKbXlGZsp-hmT1XImwaYVaGFxPw_oGkhA5k9mn_U-LVK_2UN.Hzgsk5Jv2m2Zb-8R)
+    * [Audio part](https://zoom.us/rec/play/FFh7yMNS6KugiGIZa2ess__zr996BT2T2H6arYK-IDzkKwZVX4QxORkATiAFzN_3JAjhJsvkMHI0NQgv.ja3PDem5_efmOCzT)
+* Day 3
+    * [Video Part](https://zoom.us/rec/play/Rt45uZfBH39lEq9ndgKTyt0moX582ByX9BCp8q5FqAbCJnqYgDRRw9b22bY9u-wd472b7YnJ4-2zBpng.nVSWYSvj5fMl1n5b)
+    * [Audio part](https://zoom.us/rec/play/ulVsPLdeLdsANPcORGGkwM0mUzJB73i4kKLugGyoWZpfoihePF3Kqq-kfC4_9rUbsXnpQQjDfkJZBHLF.aUMfQYnuIWI4Pwxm)
+
+## React
+* Day 1
+    * [Video Part](https://zoom.us/rec/play/cjBfl_sy7YPdidORwEkgO4pDkDDNTMN_iD4ZHOlxY67OAwL-KZV6Q6-EnkFE1Qy6XpykZy4G_KlMMcS5.9XTgV36UOK6Ijzsv)
+    * [Audio part](https://zoom.us/rec/play/vP9aUhwWavig-IvxVD8W1ChyC_5QPDRtZEYdJ7i2fznT5ELfL8mytaBWElM2koaOB-kma3hIXiQJhHRc.xnlSZ3Vx7LXVH21v)
+* Day 2
+    * [Video Part](https://zoom.us/rec/play/ykjL8gzTvV3SOmGqmzrkpeZ50i-2TVEiq5OyfTlFLT4eBSnUsGRJ1m0huNrv8WStNquDaNIFd1-_ryOQ.2cM6jcmV2uumK40X)
+    * [Audio part](https://zoom.us/rec/play/JK2amQuPyNBR5hz5S0iSaZ3AcXKdx5aPdAGoLcERsgl2A9otKahfJrtLk71VNRQy0k_R1ll2wTsgJHyK.-WF9mtW7aaEeJrWG)
+* Day 3
+    * [Video Part](https://zoom.us/rec/play/0Kw8MY1lj2EtA9_DULusgkZTU7zksVzu7MI0RCq8Zz7Ait0wI9iHt6Frybdk2vRZ5fT3ovHsFCVRzCdc.qDz9EeFxXdfDwzPk)
+    * [Audio part](https://zoom.us/rec/play/RmoeFNLhTyr1Gv5y9CKqbcqCmd7-PFTMqINJkZR-v_HjAvGHYwEUIHiFwluzMeYWSJadT27hppmYxdjF.lL_0DJfrW0HDxYEr)
+
+## MERN
+* Day 1
+    * [Video Part](https://zoom.us/rec/play/2OS24AVyXVu-3siUwPawGGCXrs5QK99l0dONbQivDaO80H6JpDu1ktnHkKSZbo3pM6nWKtiyt_eOy0Jw.oVuMvy0E8iUIFn8a)
+    * [Audio part](https://zoom.us/rec/play/LWVdIYBlb5i0y5W6ag715neGAWATlp_CcDX131vxawisHlJiD97vQ4LWNnHTQsW0lQqH5FH7TgZMcBBc.5ZZnEa7W-Nsnf7FT)
+* Day 2
+    * [Video Part](https://zoom.us/rec/play/yJ1Z-n91uX3ogdvT1YuWH7HIS3iLSL9Sjk5aLrkJM1sFCqGTTeX6b_0XMcUd-gPfgZlZ7jpWBYDh-dIr.rtC1216vzF0yQ2_x)
+    * [Audio part](https://zoom.us/rec/play/VaLbMnt0SOUcJKJc4wW2Ogxw9FP3GQFwY0URA5UKepF0hbNKH0rm452eSCV5T9lo7j-9CaCDmlF9TrVX.yNWVkKORSuIg--m7)
+* Day 3
+    * [Video Part](https://zoom.us/rec/play/bZkHHVnq07m4yYrjqQoSCKir6F0_QjIVxZ1-24BDH867XLAGiuHMhFdMd2MHVcqaHQfoqjR7WVJPcZwY.dWof0YTuMtush8yW)
+    * [Audio part](https://zoom.us/rec/play/lujNHUN9uIKE5259DyWudj12flLM7Oz2rAQGkw-uQWjzz0jqlGSWhVj69M0S1u3fWLMSNw8O6cy9Gien.Z3aiFmmv-IqrNV0Q)
+    * Apollo Things
+        * [Video Part](https://zoom.us/rec/play/qTRwO33PpTFoBi1j_7dFrJMceo-Xrq3VtYm_lQwJVdTWlcS5_WxV6GlDSGOWzweoR9tav5KoxXremp4.FkXfitc4hNTLk-gi)
+        * [Audio part](https://zoom.us/rec/play/YhtdwMDPJYPSF_kt_3oUy_MR_Hdqs3ZGdfRtp4FmbkuokDFLXDyDdsSLw5l9oajcpRFiejrSauc-lDTj.ykRnitNe1KhjUIwy)
+
+
+## State
+* Day 1
+    * [Video Part](https://zoom.us/rec/play/vNPMNUPjk2IDygSrka3L7opi7MA2PpUccMxgHV9sfV_f2WLi8bIsX0g8hdCBXZHNeG-4CHNJV4zGajDs.YNimkY2y610lU_JU)
+    * [Audio part](https://zoom.us/rec/play/LGJ4nYAYvHfhOmCCGYrF1yjuVc7eDKw8XPgta3YZVANVtL4EbQL79K9zuvK-FLabroLqGnx2XbmbHklD.XXhRdxnRtXLgfgvN)
+* Day 2
+    * [Video Part](https://zoom.us/rec/play/de6Ah2laYcUx0GfHWFqWeITbZuK7SPJ-c5PeJwhBzVQo7xSBiDDkhSh-uIK4kTCF51ydaeW2CiILieSA.L6iNZk9_HwYmjCoe)
+    * [Audio part](https://zoom.us/rec/play/IEIpXZ4qHUQyan0JmVxlfzuZpaWH8nHj55s0O2ZsDQCQdGdXJ_UpCJ5AwrE__VLgKR6IgWQs6eyXamY_.Caon6fqeoXCiGiMN)
+* Day 3
+    * [Video Part](https://zoom.us/rec/play/aG1GCig08zcGTj1Ob3IcGkpi-NfLTBMDf8jZ4L_Xvwqyd671lqqT8T8fLbDsfIrhA7Y6uKY5bnL-D103.r5_Fcmio1Ugw9gm3)
+    * [Audio part](https://zoom.us/rec/play/OnqevOGb-vmYpIRnQNct_q3zPRDIe6MwBllXStrd7IS7M3yB6NENUvEOgjLZ77DrJezcR2BYZzMKPebC.dEB1zyS2fLEd9a06)
+
+## Project 3: Final Project
+* Day 1
+    * [Video Part](https://zoom.us/rec/play/f6iQKsNrBZPPqdd6BFnGhUG4cT60-ZBuer0t_XjAGt6jnvaCskDGWYlFc1Pl2BWXCdY6QUn32oY-SeK0.ej_F7wyCUFQIZYjr)
+    * [Audio Part](https://zoom.us/rec/play/qpN2hNlHRYO7uN7iM6And5geU7SE4H6NlE4IrPF5nVXUOx6c2xIcn9fSWFh0hzAKHW2oJgnSRbUXAmX_.hVUA3c7RBx1j_pkt)
+* Presentation
+    * Group 1
+        * [Video Part]()
+        * [Audio Part]()
+    * Group 2
+        * [Video Part]()
+        * [Audio Part]()
+    * Group 3
+        * [Video Part]()
+        * [Audio Part]()
+    * Group 4
+        * [Video Part]()
+        * [Audio Part]()
+
+<!-- ## Template for copy and pasting new things
 * Day 1
     * [Video Part]()
     * [Audio part]()
@@ -167,4 +279,4 @@ Will try to update as the class progress.
     * [Audio part]()
 * Day 3
     * [Video Part]()
-    * [Audio part]()
+    * [Audio part]() -->
